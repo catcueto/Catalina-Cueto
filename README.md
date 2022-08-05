@@ -6,7 +6,6 @@ Full Stack Developer
 
 Full Stack Developer leveraging a degree in Psychology to create meaningful, interactive, and eye-appealing layouts to reach large audiences. Currently completing a Boot Camp from Georgia Tech in full-stack development.
 
-and problem-solving skills
 
 *   🌍  I'm based in Fairfax, Virginia
 *   ✉️  You can contact me at [catacueto@gmail.com](mailto:catacueto@gmail.com)
