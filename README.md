@@ -9,8 +9,8 @@ Full Stack Developer leveraging a degree in Psychology to create meaningful, int
 
 *   🌍  I'm based in Fairfax, Virginia
 *   ✉️  You can contact me at [catacueto@gmail.com](mailto:catacueto@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on All projects :)! Teamwork is the dreamwork.
+*   🧠  I'm learning Java and Ruby On Rails
+*   🤝  I'm open to collaborating on all projects :)! Teamwork is the dreamwork.
 
 
 ### Skills
