@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Catalina Cueto
 ======================================================================================================================================
 
-Full Stack Developer
+Data Analyst | Full Stack Developer
 --------------------
 
 Full Stack Developer leveraging a degree in Psychology to create meaningful, interactive, and eye-appealing layouts to reach large audiences. Currently completing a Boot Camp from Georgia Tech in full-stack development.
